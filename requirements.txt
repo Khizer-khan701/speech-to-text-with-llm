@@ -4,4 +4,7 @@ openai-whisper
 openai 
 scikit-learn
 python-dotenv
+langchain-community 
+langchain-openai
+pydub
 -e .
