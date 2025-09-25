@@ -1,0 +1,7 @@
+django 
+langchain 
+openai-whisper 
+openai 
+scikit-learn
+python-dotenv
+-e .
