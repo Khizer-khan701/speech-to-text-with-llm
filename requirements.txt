@@ -7,4 +7,5 @@ python-dotenv
 langchain-community 
 langchain-openai
 pydub
+numpy
 -e .
